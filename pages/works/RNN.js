@@ -13,7 +13,7 @@ const Work = () => (
       <P>
             This project was my Final Year Project for my Computer Engineering degree. The project aims to build a system that would able to detect gestures for the English Alphabets
             in real-time. The motive of this project was to build a system which does not use specialized sensors as well as expensive equipment for data aquisition. To achieve that, we used
-            Google's Mediapipe framework for extracting skeletal patterns of our hands in real time for model training. The uniqueness of this project comes from the Recurrent Neural Networks
+            Google&apos;s Mediapipe framework for extracting skeletal patterns of our hands in real time for model training. The uniqueness of this project comes from the Recurrent Neural Networks
             used in this project. These neural networks were customly designed by myself and they were able to achieve an accuracy of up to 100% when it comes to classifying gestures in real time.
             The project was done completely in Python and Tensorflow and Keras were used as the Deep Learning tools.
       </P>
