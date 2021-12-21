@@ -67,12 +67,12 @@ const Home = () => (
           About Me
         </Heading>
         <Paragraph>
-        Greetings Visitor ! My name is Tineskumar and I am a fresh graduate from University Teknologi Petronas that has just graduated in Bachelor's Of Computer Engineering. I am a self-taught
+        Greetings Visitor ! My name is Tineskumar and I am a fresh graduate from University Teknologi Petronas that has just graduated in Bachelors Of Computer Engineering. I am a self-taught
         developer and passionate about frontend technologies as well as looking to get placed in either frontend development or backend development. I enjoy coding in Javascript and 
         as obvious as it may sound, I fell in love with React JS. I do have experience with HTML, CSS as well as plain Javascript but most of my personal projects involve integration of React.
         Web Technologies have always fascinated me and is the main reason why I wanted to dive deeper into this field. Visitor, feel free to have a look at my projects at the Works section
         and if you feel that I might be a suitable candidate for your organization, do connect with me. Looking forward to hearing from you as well as getting an oppurtuinity to learn and work
-        with the best developers. Enjoy your stay in DevNesh's website :) 
+        with the best developers. Enjoy your stay in DevNesh&apos;s website :) 
           .
         </Paragraph>
         <Box align="center" my={4}>
@@ -116,8 +116,8 @@ Download Resume
         </BioSection>
         <BioSection>
           <BioYear>2018-2021</BioYear> <br/>
-         Completed my Bachelors' In Computer Engineering from Universiti Teknologi Petronas <br/>
-         • Completed Bachelors' in Computer Engineering with CGPA of 3.47
+         Completed my Bachelors In Computer Engineering from Universiti Teknologi Petronas <br/>
+         • Completed Bachelors in Computer Engineering with CGPA of 3.47
         </BioSection>
       </Section>
 

@@ -1,4 +1,4 @@
-import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
+import { Container, Heading, SimpleGrid} from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
@@ -70,7 +70,7 @@ const Works = () => (
 
         <Section delay={0.1}>
           <WorkGridItem id="Global" thumbnail={Global} title="Global Gateway">
-            This is a freelance project that I did for my client's company. It is an advertising website for their business and done with HTML, CSS, ReactJS and Framer Motion.
+            This is a freelance project that I did for my client&apos;s company. It is an advertising website for their business and done with HTML, CSS, ReactJS and Framer Motion.
           </WorkGridItem>
         </Section>
 

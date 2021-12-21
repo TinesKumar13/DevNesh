@@ -11,7 +11,7 @@ const Work = () => (
         Global Gateway <Badge>2021-</Badge>
       </Title>
       <P>
-        This was my first freelance project. It was an advertising website for my friend's company which does logistics. The website was designed by me using Figma and coded out using
+        This was my first freelance project. It was an advertising website for my friend&apos;s company which does logistics. The website was designed by me using Figma and coded out using
         HTML, CSS, Javascript and ReactJS. Additional animation library such as Framer Motion was used to make the website lively. The website also had a contact form which was made using
         React Formspree which allowed customers to contact the company by submitting the form.
       </P>
